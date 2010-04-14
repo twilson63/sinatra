@@ -7,7 +7,7 @@ effort:
   require 'rubygems'
   require 'sinatra'
   get '/' do
-    'Hello world!'
+    'Hello world! From Frank!'
   end
 
 Install the gem and run with:
